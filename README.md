@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Ankit Chauhan
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SDE+Intern+%40+ITJOBXS;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</p>
+### SDE Intern @ ITJOBXS | Full Stack Developer | Problem Solver
 
 <p align="center">
-  💻 Building Web Applications &nbsp; • &nbsp; 🚀 Learning by Building &nbsp; • &nbsp; 🧩 500+ DSA Problems Solved
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;SDE+Intern+at+ITJOBXS" alt="Typing SVG" />
 </p>
+
+I am a Full Stack Developer with experience building web applications using the **MERN Stack**. I have completed my **Master of Computer Applications (MCA)** and currently work as an **SDE Intern at ITJOBXS**.
+
+I enjoy building practical applications, developing REST APIs, working with authentication and authorization, and solving Data Structures and Algorithms problems.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💼 **SDE Intern @ ITJOBXS**
-* 🎓 Completed **Master of Computer Applications (MCA)**
+* 💼 SDE Intern at **ITJOBXS**
+* 🎓 Master of Computer Applications (**MCA**)
 * 💻 Full Stack Developer focused on the **MERN Stack**
 * 🧩 Solved **500+ problems** on LeetCode and GeeksforGeeks
-* 🔐 Experience with **JWT Authentication & RBAC**
+* 🔐 Experience with **JWT Authentication and Role-Based Access Control**
 * 🚀 Interested in **Backend Development and Software Engineering**
 
 ---
@@ -25,55 +27,57 @@
 
 ### 🏢 SDE Intern — ITJOBXS
 
-* 🚀 Worked on **2 client-facing MERN Stack applications**
-* 🔗 Built **REST APIs and CRUD functionality**
-* 🛒 Worked on **E-Commerce applications**
-* 🎓 Worked on **Student Management systems**
-* 🔐 Implemented **JWT Authentication and Protected Routes**
-* 👥 Implemented **Role-Based Access Control (Admin/User)**
-* 🤖 Integrated **Google reCAPTCHA with server-side verification**
-* 🛡️ Added validation and email-domain filtering to reduce suspicious registrations
+* Worked on **2 client-facing MERN Stack applications**
+* Built **REST APIs and end-to-end CRUD functionality**
+* Worked on **E-Commerce and Student Management applications**
+* Implemented **JWT Authentication and protected routes**
+* Implemented **Role-Based Access Control (Admin/User)**
+* Integrated **Google reCAPTCHA with server-side verification**
+* Added server-side validation and email-domain filtering to reduce suspicious registrations
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,npm,docker,aws" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,postman,docker&perline=6" alt="Tech Stack" />
 </p>
-
-<p align="center">
 
 **Frontend:** HTML • CSS • JavaScript • React.js
+
 **Backend:** Node.js • Express.js • REST APIs
+
 **Database:** MongoDB • MySQL
-**Tools:** Git • GitHub • Postman • npm
-**Other:** JWT • RBAC • Docker • AWS
 
-</p>
+**Tools:** Git • GitHub • Postman • npm • Docker
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" height="165" />
-</p>
+**Concepts:** JWT Authentication • RBAC • CRUD • REST APIs
 
 ---
 
-## 🧩 Problem Solving
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=Ankit8303\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
 
-🟢 **500+ Problems Solved**
+<br/>
 
-💻 **LeetCode**   |   🔵 **GeeksforGeeks**
+![](https://streak-stats.demolab.com/?user=Ankit8303\&theme=dark\&hide_border=false)
 
-</p>
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankit8303\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ankit8303\&theme=default\&no-frame=false\&no-bg=false\&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=Ankit8303\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
 
@@ -82,7 +86,11 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ankit-chauhan-109021431/">
-  <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Chauhan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Ankit_Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/Ankit8303">
+  <img src="https://img.shields.io/badge/GitHub-Ankit8303-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </p>
@@ -90,9 +98,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=Ankit8303&icon=0&color=0" alt="Profile Views" />
+  </a>
 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile! ⭐
-</p>
+<!-- Proudly created with GPRM -->
