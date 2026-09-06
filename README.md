@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Chauhan
 
-### 💻 Java Developer | Full Stack Developer | Problem Solver
+### 💻 Full Stack Developer | Problem Solver
 
 I'm a passionate **Java Developer and Full Stack Developer** interested in building web applications, backend services, and solving programming problems.
 
