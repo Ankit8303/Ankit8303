@@ -67,20 +67,6 @@ I enjoy building practical applications, developing REST APIs, working with auth
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankit8303\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Ankit8303\&theme=default\&no-frame=false\&no-bg=false\&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Ankit8303\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
