@@ -10,7 +10,7 @@ I enjoy working with **Java, Spring Boot, REST APIs, React.js, MERN Stack, and d
 
 ## 🧑‍💻 About Me
 
-- ☕ Building backend applications with **Java & Spring Boot**
+- ☕ Building backend applications with **JavaScript**
 - 🌐 Developing web applications using the **MERN Stack**
 - ⚛️ Working with **React.js & ES6**
 - 🔨 Building and working with **REST APIs**
